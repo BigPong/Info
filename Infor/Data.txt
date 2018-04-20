@@ -1,0 +1,562 @@
+[
+{
+	"name":"葉俊廷",
+	"studentNumber":"A106082026",
+	"gender":"男",
+	"height":173,
+	"bloodType":"O",
+	"zodiacSign":"金牛"
+},
+{
+	"name":"張澤瑜",
+	"studentNumber":"A106082016",
+	"gender":"男",
+	"height":0,
+	"bloodType":"其他",
+	"zodiacSign":""
+},
+{
+	"name":"龘王程捷",
+	"studentNumber":"A106082062",
+	"gender":"男",
+	"height":179,
+	"bloodType":"O",
+	"zodiacSign":"巨蟹"
+},
+{
+	"name":"江儀婷",
+	"studentNumber":"A106082054",
+	"gender":"女",
+	"height":155,
+	"bloodType":"O",
+	"zodiacSign":"白羊"
+},
+{
+	"name":"張秉華",
+	"studentNumber":"A104082006",
+	"gender":"男",
+	"height":183,
+	"bloodType":"A",
+	"zodiacSign":"雙魚"
+},
+{
+	"name":"陳柏霖",
+	"studentNumber":"A106082029",
+	"gender":"男",
+	"height":170,
+	"bloodType":"O",
+	"zodiacSign":"雙子"
+},
+{
+	"name":"黃紀瑜",
+	"studentNumber":"A106082046",
+	"gender":"女",
+	"height":163,
+	"bloodType":"A",
+	"zodiacSign":"天蠍"
+},
+{
+	"name":"黃昱維",
+	"studentNumber":"A106082030",
+	"gender":"男",
+	"height":174,
+	"bloodType":"A",
+	"zodiacSign":"巨蟹"
+},
+{
+	"name":"蔡逸群",
+	"studentNumber":"A106082022",
+	"gender":"男",
+	"height":165,
+	"bloodType":"O",
+	"zodiacSign":"獅子"
+},
+{
+	"name":"登琳",
+	"studentNumber":"A106082034",
+	"gender":"男",
+	"height":189,
+	"bloodType":"O",
+	"zodiacSign":"雙魚"
+},
+{
+	"name":"世新魏鈞孝吧",
+	"studentNumber":"A103082022",
+	"gender":"男",
+	"height":177,
+	"bloodType":"A",
+	"zodiacSign":"雙子"
+},
+{
+	"name":"劉定南",
+	"studentNumber":"A106082020",
+	"gender":"男",
+	"height":180,
+	"bloodType":"O",
+	"zodiacSign":"雙子"
+},
+{
+	"name":"陳信如",
+	"studentNumber":"A106082011",
+	"gender":"女",
+	"height":154,
+	"bloodType":"A",
+	"zodiacSign":"獅子"
+},
+{
+	"name":"童信傑",
+	"studentNumber":"A106082024",
+	"gender":"男",
+	"height":167,
+	"bloodType":"B",
+	"zodiacSign":"雙魚"
+},
+{
+	"name":"李岳倫",
+	"studentNumber":"A105082201",
+	"gender":"男",
+	"height":170,
+	"bloodType":"O",
+	"zodiacSign":"天蠍"
+},
+{
+	"name":"鄒和恆",
+	"studentNumber":"106082010",
+	"gender":"男",
+	"height":173,
+	"bloodType":"O",
+	"zodiacSign":"天蠍"
+},
+{
+	"name":"簡毓玟",
+	"studentNumber":"A106082028",
+	"gender":"女",
+	"height":165,
+	"bloodType":"A",
+	"zodiacSign":"處女"
+},
+{
+	"name":"劉子瑄",
+	"studentNumber":"a106082056",
+	"gender":"女",
+	"height":158,
+	"bloodType":"其他",
+	"zodiacSign":"處女"
+},
+{
+	"name":"蕭紹洋",
+	"studentNumber":"a106082043",
+	"gender":"男",
+	"height":180,
+	"bloodType":"O",
+	"zodiacSign":"金牛"
+},
+{
+	"name":"李亞宸la",
+	"studentNumber":"A106082006",
+	"gender":"男",
+	"height":165,
+	"bloodType":"O",
+	"zodiacSign":"雙魚"
+},
+{
+	"name":"張以潔",
+	"studentNumber":"A106082051",
+	"gender":"女",
+	"height":153,
+	"bloodType":"A",
+	"zodiacSign":"處女"
+},
+{
+	"name":"邱仕紳",
+	"studentNumber":"A106082032",
+	"gender":"男",
+	"height":175,
+	"bloodType":"",
+	"zodiacSign":"摩羯"
+},
+{
+	"name":"呂家瑩",
+	"studentNumber":"a106082058",
+	"gender":"女",
+	"height":162,
+	"bloodType":"B",
+	"zodiacSign":"雙魚"
+},
+{
+	"name":"世新林鑫佑",
+	"studentNumber":"A106082035",
+	"gender":"男",
+	"height":165,
+	"bloodType":"O",
+	"zodiacSign":"白羊"
+},
+{
+	"name":"徐均得",
+	"studentNumber":"a106082017",
+	"gender":"男",
+	"height":0,
+	"bloodType":"",
+	"zodiacSign":"天蠍"
+},
+{
+	"name":"陳佳欣",
+	"studentNumber":"A104082036",
+	"gender":"女",
+	"height":160,
+	"bloodType":"O",
+	"zodiacSign":"處女"
+},
+{
+	"name":"張恩瑋",
+	"studentNumber":"A106082009",
+	"gender":"男",
+	"height":165,
+	"bloodType":"B",
+	"zodiacSign":"雙子"
+},
+{
+	"name":"周詮",
+	"studentNumber":"a106082007",
+	"gender":"男",
+	"height":173,
+	"bloodType":"O",
+	"zodiacSign":"金牛"
+},
+{
+	"name":"王湘婷",
+	"studentNumber":"A106082052",
+	"gender":"女",
+	"height":164,
+	"bloodType":"B",
+	"zodiacSign":"雙子"
+},
+{
+	"name":"蕭宇成",
+	"studentNumber":"A106082008",
+	"gender":"男",
+	"height":177,
+	"bloodType":"B",
+	"zodiacSign":"白羊"
+},
+{
+	"name":"張家銘",
+	"studentNumber":"A106082063",
+	"gender":"男",
+	"height":177,
+	"bloodType":"B",
+	"zodiacSign":"白羊"
+},
+{
+	"name":"馬嘉誠Σ?(?? ?; )?魔貫光殺砲(???)σ?0000",
+	"studentNumber":"A106082038",
+	"gender":"男",
+	"height":180,
+	"bloodType":"O",
+	"zodiacSign":"摩羯"
+},
+{
+	"name":"陳昱嘉",
+	"studentNumber":"A106082025",
+	"gender":"男",
+	"height":170,
+	"bloodType":"O",
+	"zodiacSign":"射手"
+},
+{
+	"name":"康珈熏",
+	"studentNumber":"A106082057",
+	"gender":"女",
+	"height":151,
+	"bloodType":"AB",
+	"zodiacSign":"巨蟹"
+},
+{
+	"name":"盧奕宏",
+	"studentNumber":"A106082013",
+	"gender":"男",
+	"height":176,
+	"bloodType":"O",
+	"zodiacSign":"雙魚"
+},
+{
+	"name":"陳郁佳的大哥黃博涵",
+	"studentNumber":"A106082027",
+	"gender":"男",
+	"height":180,
+	"bloodType":"B",
+	"zodiacSign":"獅子"
+},
+{
+	"name":"遲正雯",
+	"studentNumber":"A106082048",
+	"gender":"女",
+	"height":168,
+	"bloodType":"A",
+	"zodiacSign":"射手"
+},
+{
+	"name":"世新林星彤",
+	"studentNumber":"a106082036",
+	"gender":"女",
+	"height":152,
+	"bloodType":"O",
+	"zodiacSign":"摩羯"
+},
+{
+	"name":"許晏誠",
+	"studentNumber":"A106082059",
+	"gender":"男",
+	"height":666,
+	"bloodType":"O",
+	"zodiacSign":"天蠍"
+},
+{
+	"name":"許子安",
+	"studentNumber":"a106082045",
+	"gender":"男",
+	"height":2147483647,
+	"bloodType":"",
+	"zodiacSign":""
+},
+{
+	"name":"高子晴",
+	"studentNumber":"A106082012",
+	"gender":"女",
+	"height":165,
+	"bloodType":"O",
+	"zodiacSign":"雙魚"
+},
+{
+	"name":"陳思婷",
+	"studentNumber":"A106082037",
+	"gender":"女",
+	"height":155,
+	"bloodType":"A",
+	"zodiacSign":"雙子"
+},
+{
+	"name":"?鵘鮿",
+	"studentNumber":"A106082021",
+	"gender":"男",
+	"height":777,
+	"bloodType":"",
+	"zodiacSign":""
+},
+{
+	"name":"余彥廷",
+	"studentNumber":"A106082031",
+	"gender":"男",
+	"height":173,
+	"bloodType":"O",
+	"zodiacSign":"雙魚"
+},
+{
+	"name":"吳耀輝",
+	"studentNumber":"A106082061",
+	"gender":"男",
+	"height":169,
+	"bloodType":"O",
+	"zodiacSign":"處女"
+},
+{
+	"name":"鄭丞智",
+	"studentNumber":"A106082042",
+	"gender":"男",
+	"height":170,
+	"bloodType":"A",
+	"zodiacSign":"金牛"
+},
+{
+	"name":"林冠廷",
+	"studentNumber":"A106082023",
+	"gender":"男",
+	"height":169,
+	"bloodType":"O",
+	"zodiacSign":"天秤"
+},
+{
+	"name":"世新何曜宇",
+	"studentNumber":"A106082040",
+	"gender":"男",
+	"height":171,
+	"bloodType":"O",
+	"zodiacSign":"水瓶"
+},
+{
+	"name":"邵喬雨",
+	"studentNumber":"A106082001",
+	"gender":"女",
+	"height":0,
+	"bloodType":"其他",
+	"zodiacSign":"巨蟹"
+},
+{
+	"name":"張豐愷",
+	"studentNumber":"a106082002",
+	"gender":"男",
+	"height":170,
+	"bloodType":"B",
+	"zodiacSign":"處女"
+},
+{
+	"name":"林子晴",
+	"studentNumber":"A106082014",
+	"gender":"女",
+	"height":150,
+	"bloodType":"O",
+	"zodiacSign":"白羊"
+},
+{
+	"name":"邱雁回",
+	"studentNumber":"A106082041",
+	"gender":"女",
+	"height":160,
+	"bloodType":"O",
+	"zodiacSign":"摩羯"
+},
+{
+	"name":"陳家欣是韓妞",
+	"studentNumber":"A106082049",
+	"gender":"女",
+	"height":155,
+	"bloodType":"O",
+	"zodiacSign":"水瓶"
+},
+{
+	"name":"鄧雅馨",
+	"studentNumber":"A106082015",
+	"gender":"女",
+	"height":164,
+	"bloodType":"A",
+	"zodiacSign":"天秤"
+},
+{
+	"name":"謝汶珊",
+	"studentNumber":"A106082044",
+	"gender":"女",
+	"height":163,
+	"bloodType":"AB",
+	"zodiacSign":"金牛"
+},
+{
+	"name":"李曼寧",
+	"studentNumber":"A106082047",
+	"gender":"女",
+	"height":165,
+	"bloodType":"A",
+	"zodiacSign":"天蠍"
+},
+{
+	"name":"徐偉哲",
+	"studentNumber":"A106082018",
+	"gender":"男",
+	"height":184,
+	"bloodType":"O",
+	"zodiacSign":"天蠍"
+},
+{
+	"name":"張鈺慈",
+	"studentNumber":"A106082005",
+	"gender":"女",
+	"height":165,
+	"bloodType":"B",
+	"zodiacSign":"處女"
+},
+{
+	"name":"鍾宜珊",
+	"studentNumber":"A106082050",
+	"gender":"女",
+	"height":155,
+	"bloodType":"AB",
+	"zodiacSign":"雙子"
+},
+{
+	"name":"raer_tsai",
+	"studentNumber":"a106082055",
+	"gender":"女",
+	"height":0,
+	"bloodType":"",
+	"zodiacSign":""
+},
+{
+	"name":"世新李姳諼",
+	"studentNumber":"A106082039",
+	"gender":"女",
+	"height":168,
+	"bloodType":"O",
+	"zodiacSign":"摩羯"
+},
+{
+	"name":"鄭曼君",
+	"studentNumber":"A104082013",
+	"gender":"女",
+	"height":160,
+	"bloodType":"O",
+	"zodiacSign":"天蠍"
+},
+{
+	"name":"陳柏霖",
+	"studentNumber":"A106082029",
+	"gender":"男",
+	"height":169,
+	"bloodType":"O",
+	"zodiacSign":"雙子"
+},
+{
+	"name":"世新許子安",
+	"studentNumber":"",
+	"gender":"男",
+	"height":0,
+	"bloodType":"",
+	"zodiacSign":""
+},
+{
+	"name":"世新方若帆",
+	"studentNumber":"A104040024",
+	"gender":"女",
+	"height":150,
+	"bloodType":"O",
+	"zodiacSign":"獅子"
+},
+{
+	"name":"李曼寧",
+	"studentNumber":"A106082047",
+	"gender":"女",
+	"height":163,
+	"bloodType":"A",
+	"zodiacSign":"天蠍"
+},
+{
+	"name":"世新張豐愷",
+	"studentNumber":"a",
+	"gender":"男",
+	"height":0,
+	"bloodType":"",
+	"zodiacSign":""
+},
+{
+	"name":"世新遲正雯",
+	"studentNumber":"A106082048",
+	"gender":"女",
+	"height":168,
+	"bloodType":"A",
+	"zodiacSign":"射手"
+},
+{
+	"name":"世新周詮",
+	"studentNumber":"a106082007",
+	"gender":"男",
+	"height":173,
+	"bloodType":"O",
+	"zodiacSign":"金牛"
+},
+{
+	"name":"施 續保",
+	"studentNumber":"a106082087",
+	"gender":"男",
+	"height":0,
+	"bloodType":"AB",
+	"zodiacSign":"處女"
+}
+]

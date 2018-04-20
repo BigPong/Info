@@ -377,7 +377,7 @@ namespace Infor
     public class student
     {
         public string name { get; set; }
-        public string studentNum { get; set; }
+        public string studentNumber { get; set; }
         public string gender { get; set; }
         public int height { get; set; }
         public string bloodtype { get; set; }

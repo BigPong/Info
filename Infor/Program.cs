@@ -195,7 +195,7 @@ namespace Infor
             // 宣告儲存變數
             float boyAvr = 0, girlAvr = 0, allAvr;
             int boyCount = 0, girlCount = 0;
-            float boyHighest = 0, boyShortest = 0, girlHighest = 0, girlShortest = 0;
+            float boyHighest = 0, boyShortest = 999, girlHighest = 0, girlShortest = 999;
 
             // List搜尋並剔除過高身高  但並沒有管過矮的 順便登記最高的身高 *其實好像能用Sort
             foreach (student s in studentsList)
@@ -205,6 +205,12 @@ namespace Infor
                 {
                     // 身高過高
                     if (s.height >= 272)
+                    {
+                        continue;
+                    }
+
+                    // 身高過矮
+                    if (s.height <= 100)
                     {
                         continue;
                     }
@@ -229,7 +235,14 @@ namespace Infor
                     {
                         continue;
                     }
+
+                    if (s.height <= 100)
+                    {
+                        continue;
+                    }
+
                     girlAvr += s.height;
+
                     if (s.height > girlHighest)
                     {
                         girlHighest = s.height;

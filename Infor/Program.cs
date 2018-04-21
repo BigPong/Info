@@ -19,7 +19,7 @@ namespace Infor
         static void Main(string[] args)
         {
             // 得到JSON檔並轉成List
-            StreamReader rw = new StreamReader("D:\\VSProject\\Infor\\Infor\\Data.txt", Encoding.Default);
+            StreamReader rw = new StreamReader(@"D:\\VSProject\\Infor\\Infor\\Data.txt", Encoding.Default);
             data = rw.ReadToEnd();
             studentsList = JsonConvert.DeserializeObject<List<student>>(data);
 
